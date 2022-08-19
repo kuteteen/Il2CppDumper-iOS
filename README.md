@@ -3,3 +3,7 @@
 
 # Build
  Use Visual Studio
+
+# Credits
+
+- Perfare - [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
